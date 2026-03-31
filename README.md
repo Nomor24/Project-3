@@ -27,11 +27,6 @@ Cleaned National Household Travel Survey dataset used for descriptive statistics
 NGSIM.csv  
 Vehicle trajectory dataset used for car‑following modeling and IDM simulation.
 
-Draft Executive Summary (DOCX)  
-Early-stage summary of findings and project conclusions.
-
-Draft Methods (DOCX)  
-Documentation of methodology, assumptions, and analytical approach.
 
 Gantt Chart (XLSX)  
 Project timeline and task breakdown.
